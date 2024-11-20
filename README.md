@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harshit-0016&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-0016&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🚀 My LeetCode Profile:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Montserrat)](https://leetcode.com/u/Harshit_122/)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
